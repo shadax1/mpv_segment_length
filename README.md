@@ -19,4 +19,4 @@ Finally, you can use `Ctrl+x` to remove the displayed text.
 ## Demonstration
 You can see the script in action [here](https://twitter.com/Shadax1/status/1685425068292096001)
 
-![demo](https://raw.githubusercontent.com/shadax1/mpv_segment_length/master/misc/demo.png)
+![demo](https://raw.githubusercontent.com/shadax1/mpv_segment_length/main/demo.png)
